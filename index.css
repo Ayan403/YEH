@@ -1,0 +1,133 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.desktop1-desktop1 {
+  width: 100%;
+  height: 1012px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  flex-shrink: 0;
+  border-radius: 10px;
+  justify-content: flex-start;
+  background-color: rgba(0, 224, 255, 0.8799999952316284);
+}
+.desktop1-text {
+  top: 35px;
+  left: 509px;
+  color: rgba(0, 0, 0, 1);
+  width: 539px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Irish Grover";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text10 {
+  color: rgba(0, 128, 0, 1);
+  right: 56px;
+  width: 291px;
+  bottom: 95px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text12 {
+  left: 0px;
+  color: rgb(255, 255, 255);
+  right: 0px;
+  width: 598px;
+  bottom: 33px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Irish Grover";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle2 {
+  top: 295px;
+  right: 65px;
+  width: 230px;
+  height: 421px;
+  margin: auto;
+  position: absolute;
+}
+.desktop1-text13 {
+  left: 0px;
+  color: rgb(255, 0, 0);
+  right: 0px;
+  width: 240px;
+  bottom: 99px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Irish Grover";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle3 {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 230px;
+  bottom: 0px;
+  height: 421px;
+  margin: auto;
+  position: absolute;
+}
+.desktop1-rectangle1 {
+  top: 299px;
+  left: 66px;
+  width: 230px;
+  height: 421px;
+  margin: auto;
+  position: absolute;
+}
+.desktop1-text14 {
+  left: 96px;
+  color: rgb(128, 0, 128);
+  width: 219px;
+  bottom: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Irish Grover";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
